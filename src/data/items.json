@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "T-Shirt",
+        "price": 19.99,
+        "imageURL": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+        "alt": "T-Shirt"
+    },
+    {
+        "id": 5,
+        "name": "Sunglasses",
+        "price": 49.99,
+        "imageURL": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+        "alt": "Sunglasses"
+    },
+    {
+        "id": 3,
+        "name": "Shoes",
+        "price": 59.99,
+        "imageURL": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+        "alt": "Shoes"
+    },
+    {
+        "id": 4,
+        "name": "Backpack",
+        "price": 29.99,
+        "imageURL": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa",
+        "alt": "Backpack"
+    }
+]
